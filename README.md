@@ -22,10 +22,12 @@
     </a> 
 </p>
 
+<!-- GitHub Most Used Languages -->
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiezz65&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fiezz65 Most Used Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiezz65&show_icons=true&locale=en&layout=compact&bg_color=282828&title_color=f92672&text_color=ffffff&icon_color=ff79c6&border_color=ffffff" alt="fiezz65 Most Used Languages" />
 </p>
 
+<!-- GitHub Stats -->
 <p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiezz65&show_icons=true&locale=en&theme=tokyonight" alt="fiezz65 GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiezz65&show_icons=true&locale=en&bg_color=282828&title_color=f92672&text_color=ffffff&icon_color=ff79c6&border_color=ffffff" alt="fiezz65 GitHub Stats" />
 </p>
