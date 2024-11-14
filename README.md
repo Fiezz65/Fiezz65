@@ -1,33 +1,39 @@
-<h1 align="center">Hi, I'm Lixx</h1>
-<h3 align="center">A Bachelor of Information Technology student at Lambung Mangkurat University</h3>
+<h2 align="left">Hi! My name is Hafiz and I'm a Bachelor of Information Technology student from Lambung Mangkurat University</h2>
 
-- 💻 I’m currently learning **C & Python Language**
+###
 
-- 📫 How to reach me **hfzzprr@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fiezz65&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fiezz65&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🎮 Fun fact **I like playing video games and listening to music**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/xfiezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xfiezz" height="30" width="40" /></a>
-</p>
+<img align="right" height="150" src="https://imgflip.com/gif/9ab3xr"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-</p>
+###
 
-<!-- GitHub Most Used Languages -->
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiezz65&show_icons=true&locale=en&layout=compact&bg_color=282828&title_color=f92672&text_color=ffffff&icon_color=ff79c6&border_color=ffffff" alt="fiezz65 Most Used Languages" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-<!-- GitHub Stats -->
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiezz65&show_icons=true&locale=en&bg_color=282828&title_color=f92672&text_color=ffffff&icon_color=ff79c6&border_color=ffffff" alt="fiezz65 GitHub Stats" />
-</p>
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/xfiezz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="discordapp.com/users/741254878713610240" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Fiezz65/Fiezz65/output/snake.svg" alt="Snake animation" />
+
+###
