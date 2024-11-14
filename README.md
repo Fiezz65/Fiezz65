@@ -36,3 +36,5 @@
          alt="Sparkle Hanabi GIF" 
          style="border-radius: 15px; border: 2px solid white;"/>
 </div>
+
+![Snake animation](https://github.com/{{Fiezz65}}/{{Fiezz65}}/blob/output/github-contribution-grid-snake.svg)
