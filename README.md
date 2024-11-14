@@ -32,5 +32,7 @@
 ###
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/99c86215-171e-4b73-bd15-213d73e80517" alt="Sparkle Hanabi GIF - Sparkle Hanabi Hsr - Discover Share GIFs (1)" style="border-radius: 15px; border: 2px solid white;" />
+    <img src="https://github.com/user-attachments/assets/99c86215-171e-4b73-bd15-213d73e80517" 
+         alt="Sparkle Hanabi GIF" 
+         style="border-radius: 15px; border: 2px solid white;"/>
 </div>
