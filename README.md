@@ -1,26 +1,23 @@
-# <summary><strong>Hi there :wave: , I'm Lixx!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<h1 align="center">Hi 👋, I'm Lixx</h1>
+<h3 align="center">A Bachelor of Information Technology student at Lambung Mangkurat University</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fiezz65&label=Profile%20views&color=0e75b6&style=flat" alt="fiezz65" /> </p>
+
+- 🌱 I’m currently learning **C & Python Language**
+
+- 📫 How to reach me **hfzzprr@gmail.com**
+
+- ⚡ Fun fact **I like playing video games and listening to music**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/xfiezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xfiezz" height="30" width="40" /></a>
 </p>
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning coding. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="hfzzprr@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: He/Him. </br>
-    - :game_die: Playing games and listening to music are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/xfiezz/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fiezz65&show_icons=true&locale=en&layout=compact" alt="fiezz65" /></p>
 <!--
 **Fiezz65/Fiezz65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
