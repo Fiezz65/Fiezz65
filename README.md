@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lixx</h1>
+<h1 align="center">Hi, I'm Lixx</h1>
 <h3 align="center">A Bachelor of Information Technology student at Lambung Mangkurat University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiezz65&label=Profile%20views&color=0e75b6&style=flat" alt="fiezz65" /> </p>
 
-- 🌱 I’m currently learning **C & Python Language**
+- I’m currently learning **C & Python Language**
 
-- 📫 How to reach me **hfzzprr@gmail.com**
+- How to reach me: **hfzzprr@gmail.com**
 
-- ⚡ Fun fact **I like playing video games and listening to music**
+- Fun fact: **I like playing video games and listening to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
