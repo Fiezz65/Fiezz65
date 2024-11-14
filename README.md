@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Lixx</h1>
 <h3 align="center">A Bachelor of Information Technology student at Lambung Mangkurat University</h3>
 
-- 💻 I’m currently learning **C & Python Language**
-
-- 📫 How to reach me **hfzzprr@gmail.com**
-
-- 🎮 Fun fact **I like playing video games and listening to music**
+<ul>
+    <li>💻 I’m currently learning <strong style="color:#9b59b6;">C & Python Language</strong></li>
+    <li>📫 How to reach me: <a href="mailto:hfzzprr@gmail.com" style="color:#9b59b6;"><strong>hfzzprr@gmail.com</strong></a></li>
+    <li>🎮 Fun fact: <strong style="color:#9b59b6;">I like playing video games and listening to music</strong></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
