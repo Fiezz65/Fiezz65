@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lixx</h1>
 <h3 align="center">A Bachelor of Information Technology student at Lambung Mangkurat University</h3>
 
-<p align="center">
-  <img src="https://imgur.com/a/bhW7kCx" alt="Profile Image" width="200" height="200">
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiezz65&label=Profile%20views&color=0e75b6&style=flat" alt="fiezz65" /> </p>
 
 - 🌱 I’m currently learning **C & Python Language**
