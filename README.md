@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Hafiz and I'm an Information Technology student from Lambung Mangkurat University</h2>
+<h2 align="left">Hi! My name is Hafiz and I'm part of Information Technology student from Lambung Mangkurat University</h2>
 
 ###
 
